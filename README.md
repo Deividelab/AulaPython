@@ -1,10 +1,10 @@
 # AulaPython
 Aulas referente ao curso de Python do IFBAIANO.
 
-#**BÁSICO** - Aula 1 e 2
+# **BÁSICO** - Aula 1 e 2
 # **Aula 3**
 # **Aula 4**
-#**Aula 5**- Laço While
+# **Aula 5**- Laço While
 # **Aula 6** - Listas
 # **Aula 7** - Tuplas e Dicionários
 # **Aula 8** - Funções
